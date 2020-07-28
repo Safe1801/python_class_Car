@@ -1,6 +1,9 @@
-from  writing_class_exercise_1 import Car
+#from  class_exercise import Car
+#from class_exercise import ElectricCar
 
-
+#from class_exercise import Car, ElectricCar
+#from class_exercise import *
+#import class_exercise
 #fordMustang=Car("Ford-8","AX-2939")
 #SUV=Car("Honda", "MX-2101")
 
